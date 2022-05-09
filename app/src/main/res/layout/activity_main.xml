@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="192dp"
         android:layout_height="32dp"
-        android:text="Hallo ini chapter 4 Binar!"
+        android:text="Hallo ini chapter 4 Binar! \n Hello comit baru"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.456"
         app:layout_constraintLeft_toLeftOf="parent"
